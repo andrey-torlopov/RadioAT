@@ -1,0 +1,2 @@
+Place the fm_transmitter C/C++ sources from https://github.com/markondej/fm_transmitter here.
+Expected files include: fm_transmitter.cpp, transmitter.cpp/.hpp, mailbox.cpp/.hpp, wave_reader.cpp/.hpp.
